@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jasmine-spy"
+    }
+  },
+  "defaultProject": "jasmine-spy",
+  "cli": {
+    "analytics": false
+  }
 }
